@@ -15,7 +15,6 @@
 						<br><br>
 						<!--<a target="_blank" href="<?php echo $json['socialMediaLinks']['facebook'] ?>"><i class="fa fa-3x fa-facebook"></i></a>-->
 						<!--<a target="_blank" href="<?php echo $json['socialMediaLinks']['twitter'] ?>"><i class="fa fa-3x fa-twitter"></i></a>-->
-						<!-- <a target="_blank" href="<?php echo $json['socialMediaLinks']['linkedin'] ?>"><i class="fa fa-3x fa-linkedin"></i> </a> -->
 						<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=871LAeKNkhxYsFWeQjQe7TK-N9zgVmEKZSXJEu5WqSM'></script>
 					</div> 
 					

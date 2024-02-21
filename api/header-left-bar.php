@@ -7,18 +7,18 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 <html>
 <head>
 	<title>AVSS 2024</title>
-	<link rel="icon" href="images/AVSS2024_Logo.jpg">
+	<link rel="icon" href="../images/AVSS2024_Logo.jpg">
 	<link href="css/reset.css" rel='stylesheet' type='text/css'>
 	<link href="css/basscss.css" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/sponsors.css">
+	<link rel="stylesheet" href="/../css/sponsors.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Black">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/navbar.css">
-	<link rel="stylesheet" href="css/gallery.css">
-	<link rel="stylesheet" href="css/mobilenav.css">
+	<link rel="stylesheet" href="/../css/navbar.css">
+	<link rel="stylesheet" href="/../css/gallery.css">
+	<link rel="stylesheet" href="/../css/mobilenav.css">
 	<script
   		src="https://code.jquery.com/jquery-3.1.1.min.js"
   		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
