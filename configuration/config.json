@@ -1,0 +1,190 @@
+{
+	"meta":{
+		"conferenceYear": 2024,
+		"dateStart": "2024-07-15",
+		"dateEnd": "2024-07-16",
+		"conferenceName": "AVSS 2024"
+	},
+	"header":{
+		"title" : "AVSS 2024",
+		"subtitle" : "20th IEEE International Conference on Advanced Video and Signal-Based Surveillance",
+		"dateTitle" : "July 15-16, 2024",
+		"ICME2024" : "(collocated with ICME 2024)",
+		"locationPlaceName": "Niagara Falls Marriott on the Falls, Niagara Falls, Canada",
+		"locationAreaName": "",
+		"bannerImage":"images/niagara-falls3.gif",
+		"bannerBottomPlacement" : "0px",
+		"bannerRightPlacement" : "0px"
+	},
+	"socialMediaLinks":{
+		"facebook":"https://www.facebook.com/IEEECCTA2024/",
+		"twitter":"https://twitter.com/CCTA2024"
+	},
+	"dates":[
+		
+		{
+			"title":"Full Paper Submission Due",
+			"date": "March 15, 2024, Anytime on Earth (AoE)",
+			"showInNavBar": true
+		},
+		{
+			"title":"Notification of acceptance",
+			"date": "May 12, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"Camera-ready deadline",
+			"date": "May 19, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"AVSS 2024 Conference Dates",
+			"date": "July 15-16, 2024",
+			"showInNavBar": false
+		}
+	],
+	"footerLinks":{
+		"firstSection":{
+			"title":"conference",
+			"links":[
+				{
+					"name": "Technical Program",
+					"link": "technical-program.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Plenary Speakers",
+					"link": "plenary-speakers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Workshops",
+					"link": "workshops.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Social Events ",
+					"link": "events.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Panel Session",
+					"link": "panel-session.php",
+					"openInNewWindow": false
+				}
+			]
+		},
+		"secondSection":{
+			"title":"destination",
+			"links":[
+				{
+					"name": "Hotel",
+					"link": "hotel.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Niagara Falls",
+					"link": "https://www.niagarafallstourism.com/",
+					"openInNewWindow": true
+				},
+				{
+					"name": "Flights",
+					"link": "",
+					"openInNewWindow": true
+				},
+				{
+					"name": "Local Information",
+					"link": "local-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Map",
+					"link": "",
+					"openInNewWindow": true
+				}
+			]
+		},
+		"thirdSection":{
+			"title":"author links",
+			"links":[
+				{
+					"name": "Article Templates",
+					"link": "http://css.paperplaza.net/conferences/support/support.php",
+					"openInNewWindow": true
+				},
+				{
+					"name": "PaperPlaza",
+					"link": "http://css.paperplaza.net",
+					"openInNewWindow": true
+				},
+				{
+					"name": "Visa Information",
+					"link": "visa-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Student Best Paper Award",
+					"link": "student-paper-award.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Student Travel Support",
+					"link": "student-travel-support.php",
+					"openInNewWindow": false
+				}
+			]
+		},
+		"fourthSection":{
+			"title":"sitemap",
+			"links":[
+				{
+					"name": "Home",
+					"link": "index.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Organizers",
+					"link": "organizers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Visa Information",
+					"link": "visa-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Events",
+					"link": "events.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Registration",
+					"link": "registration.php",
+					"openInNewWindow": false
+				}
+			]
+		}
+	},
+	"newsTicker":[
+		{
+			"content":"For conference registration, Click here.",
+			"link":"registration.php",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Make your hotel reservations soon!",
+			"link":"#",
+			"openInNewWindow": true
+		},
+		{
+			"content":"Check out the Pre-Conference Workshops!",
+			"link":"workshops.php",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Full Paper Submission Due March 15, 2024, Anytime on Earth (AoE)",
+			"link":"call-to-papers.php",
+			"openInNewWindow": false
+		}		
+	]
+}

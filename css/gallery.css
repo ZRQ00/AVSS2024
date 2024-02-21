@@ -1,0 +1,127 @@
+.organization {
+    position: relative;
+    margin-top: 2.9rem;
+  }
+
+  .organization__title--mb39 {
+    margin-bottom: 1.95rem;
+  }
+  .organization_list {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.1rem;
+    align-content: stretch;
+  }
+  .organization_list--mt68 {
+    margin-top: 3.4rem;
+  }
+  .organization_list--nogrid {
+    display: block;
+  }
+  @media screen and (max-width: 920px) {
+    .organization_list {
+      grid-template-columns: 100%;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .organization_list {
+      gap: 0;
+    }
+  }
+  .organization_item {
+    position: relative;
+  }
+  .organization_item--grid50 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.1rem;
+  }
+  @media screen and (max-width: 450px) {
+    .organization_item--grid50 {
+      grid-template-columns: 100%;
+      gap: 0;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .organization_item + .organization_item {
+      margin-top: 3.4rem;
+    }
+  }
+  .organization .chairs {
+    margin-top: 1.95rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.1rem;
+    align-content: stretch;
+  }
+  .organization .chairs--grid4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .organization .chairs--grid5 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+  @media screen and (max-width: 920px) {
+    .organization .chairs--grid4 {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .organization .chairs--grid4 {
+      grid-template-columns: 100%;
+    }
+  }
+  .organization .chairs--grid100 {
+    grid-template-columns: auto;
+  }
+  .organization .chairs--block {
+    display: block;
+    margin-top: 0;
+  }
+  @media screen and (max-width: 450px) {
+    .organization .chairs .chairs--bloc + .chairs--bloc {
+      margin-top: 3.4rem;
+    }
+  }
+  @media screen and (max-width: 920px) {
+    .organization .chairs {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .organization .chairs {
+      grid-template-columns: 100%;
+    }
+  }
+  .organization .chairs_item {
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width:250px;
+    padding: 1rem 1rem 1rem;
+  }
+  .organization .chair_image {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50px;
+	min-width: 100px;
+  }
+  .organization .chair_image img {
+    width: 125px;
+    height: 125px;
+    position:relative;
+   
+  }
+  .organization .chair_info{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    
+  }

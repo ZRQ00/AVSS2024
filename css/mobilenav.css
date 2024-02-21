@@ -1,0 +1,55 @@
+.topnav {
+    overflow: hidden;
+    background-color: #005bbb;
+    position: relative;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: none;
+  }
+  
+  .topnav a.icon {
+    display: none;
+  }
+  
+  .active {
+    background-color: #005bbb;
+    color: white;
+  }
+
+@media only screen and (max-width: 600px){
+    .topnav {
+        overflow: hidden;
+        background-color: #005bbb;
+        position: relative;
+      }
+      
+      .topnav #myLinks {
+        display: none;
+      }
+      
+      .topnav a {
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        display: block;
+      }
+      
+      .topnav a.icon {
+        display: block;
+      }
+      
+      .active {
+        background-color: #005bbb;
+        color: white;
+      }
+}
